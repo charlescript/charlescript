@@ -1,14 +1,21 @@
-### Hi there 👋
+ ### Hi there 👋
 
 Eu sou o Charles Rocha, sou um programador Frond End, me tornando Full Stack. <br/>Estou frequentemente estudando técnologias novas bem como as atuais para não "enferrujar".
 Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha curiosidade me impulsiona a entender novas ferramentas...
 
+ <img align="left" background="white" target="_blank" alt="icone do linkedin" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> HTML 
+ <br/><br/>
+ <img align="left" background="white" target="_blank" alt="icone do linkedin" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> CSS
+ <br/><br/>
+ <img align="left" background="white" target="_blank" alt="icone do linkedin" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> Javascript
 
+
+  
 <br/>
 
 ### Connect with me:
   <a href="https://www.linkedin.com/in/charles-rocha6307b31ab/">
-    <img align="left" background="white" target="_blank" alt="icone do linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
+    <img align="left" background="white" target="_blank" alt="icone do linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     <p>Linkedin</p>
   </a>
 <p></p>
