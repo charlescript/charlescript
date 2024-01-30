@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Charles Rocha, sou um programador Frond End, me tornando Full Stack <br/>e estou frequentemente estudando técnologias novas bem como as atuais para não "enferrujar".
+Eu sou o Charles Rocha, sou um programador Frond End, me tornando Full Stack. <br/>Estou frequentemente estudando técnologias novas bem como as atuais para não "enferrujar".
 Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha curiosidade me impulsiona a entender novas ferramentas...
 
 
