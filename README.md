@@ -24,13 +24,4 @@ I am Charles Rocha, a Front-End programmer, transitioning to Full Stack. <br/>I 
 
 <hr/>
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript)](https://git.io/streak-stats) 
- <br/><br/>
- ![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=charlescript&show_icons=true&theme=transparent)
-
-<hr/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&hide_progress=true)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats)  
