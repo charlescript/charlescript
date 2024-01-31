@@ -25,7 +25,7 @@ Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha c
 
 <hr/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript)](https://git.io/streak-stats) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript)](https://git.io/streak-stats) 
 
 <hr/>
 
