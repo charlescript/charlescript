@@ -5,15 +5,16 @@ Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha c
 
 ## Abaixo ferramentas que tenho maior afinidade:
 
- <img align="left" background="white" target="_blank" alt="icone do HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> HTML  <br/><br/>
- <img align="left" background="white" target="_blank" alt="icone do CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> CSS <br/><br/>
- <img align="left" background="white" target="_blank" alt="icone do Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> Javascript <br/><br/>
- <img align="left" background="white" target="_blank" alt="icone do PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> PHP <br/><br/>
- <img align="left" background="white" target="_blank" alt="icone do REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> REACT ( Em aprendizado :clock10:) <br/><br/>
- <img align="left" background="white" target="_blank" alt="icone do MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> SQL - MySQL <br/><br/>
- <img align="left" background="white" target="_blank" alt="icone do Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> Linux
-
+ <img align="left" background="white" target="_blank" alt="icone do HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
+ <img align="left" background="white" target="_blank" alt="icone do CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
+ <img align="left" background="white" target="_blank" alt="icone do Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+ <img align="left" background="white" target="_blank" alt="icone do PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+ <img align="left" background="white" target="_blank" alt="icone do REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
+ <img align="left" background="white" target="_blank" alt="icone do MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img align="left" background="white" target="_blank" alt="icone do Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+ 
 <br/>
+<hr/>
 
 ### Connect with me:
   <a href="https://www.linkedin.com/in/charles-rocha6307b31ab/">
@@ -22,6 +23,9 @@ Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha c
   </a>
 <p></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript)](https://github.com/charlescript)
+<hr/>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlescript&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&layout=donut)](https://github.com/charlescript/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&hide_progress=true)
 
