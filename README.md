@@ -29,9 +29,7 @@ Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha c
  <br/><br/>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlescript&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript&compact=True)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript&compact=True)](https://git.io/streak-stats)
-
+<hr/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&hide_progress=true)
 
