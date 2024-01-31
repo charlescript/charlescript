@@ -2,8 +2,13 @@
 
 Eu sou o Charles Rocha, sou um programador Frond End, me tornando Full Stack. <br/>Estou frequentemente estudando técnologias novas bem como as atuais para não "enferrujar".
 Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha curiosidade me impulsiona a entender novas ferramentas...
-
 ## Abaixo ferramentas que tenho maior afinidade:
+<hr/>
+
+
+I am Charles Rocha, a Front-End programmer, transitioning to Full Stack. <br/>I am frequently studying new technologies as well as the current ones to avoid getting "rusty." I study technologies like HTML, CSS, Javascript, Node, Java, SQL, and Networks. My curiosity propels me to understand new tools...
+
+## Below are the tools I have a greater affinity for:
 
  <img align="left" background="white" target="_blank" alt="icone do HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> 
  <img align="left" background="white" target="_blank" alt="icone do CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> 
