@@ -35,10 +35,3 @@ Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha c
 
 
 
-<a href="https://github.com/charlescript/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charlescript" />
-</a>
-<a href="https://github.com/charlescript/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=charlescript&show_icons=true&theme=transparent" />
-</a>
-
