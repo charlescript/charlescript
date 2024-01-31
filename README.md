@@ -25,7 +25,21 @@ Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha c
 
 <hr/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlescript&show_icons=true&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charlescript)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&layout=donut)](https://github.com/charlescript/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&hide_progress=true)
+<hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlescript&show_icons=true&theme=transparent)
+
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats) 
+
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&layout=donut)](https://github.com/charlescript/github-readme-stats)
+
+<hr/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&hide_progress=true)
 
