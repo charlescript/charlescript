@@ -33,11 +33,7 @@ Estudo técnologias como HTML, CSS, Javascript, Node, Java, Sql e Redes, minha c
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats) 
-
-<hr/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&layout=donut)](https://github.com/charlescript/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript)](https://github.com/charlescript/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlescript&layout=donut)](https://github.com/charlescript/github-readme-stats)
 
 <hr/>
 
