@@ -12,10 +12,12 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Streak Stats
-        uses: denvercoder1/github-readme-streak-stats@master
+        uses: denvercoder1/github-readme-streak-stats@ec55e347e3b09289665a3d70659698d24666f7d5
         with:
           user: charlescript
           theme: tokyonight
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Changes
         run: |
