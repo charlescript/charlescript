@@ -2,7 +2,7 @@
 
 💻 Estudante de Engenharia de Computação na UNIVESP
 🚀 Software Engineer | Foco em Backend & Arquitetura de Sistemas
-📍 São Paulo - Brasil
+📍 São Vicente - São Paulo - Brasil
 
 ---
 
