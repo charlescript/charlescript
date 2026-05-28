@@ -52,9 +52,9 @@ Busco consolidar minha carreira na área de desenvolvimento backend e sistemas (
 ## 📊 Estatísticas
 
 <div align="center">
-  <!-- Cartão de Estatísticas Gerais (Servidor Espelho Estável) -->
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=charlescript&show_icons=true&theme=tokyonight&locale=pt-br" alt="Charles GitHub Stats" />
+  <!-- Cartão de Estatísticas Gerais -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlescript&theme=tokyonight" alt="Charles GitHub Stats" />
   
-  <!-- Cartão de Linguagens Mais Usadas (Servidor Espelho Estável) -->
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=charlescript&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <!-- Cartão de Linguagens Mais Usadas -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=charlescript&theme=tokyonight" alt="Most Used Languages" />
 </div>
