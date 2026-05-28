@@ -52,5 +52,5 @@ Busco consolidar minha carreira na área de desenvolvimento backend e sistemas (
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="./github-readme-streak-stats.svg" alt="Minhas Estatísticas do GitHub" />
+  <img height="180" src="./github-metrics.svg" alt="Minhas Estatísticas do GitHub" />
 </div>
