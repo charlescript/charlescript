@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Charles Rocha dos Santos!
+# 👋 Olá, sou o Charles.
 
 * 💻 Estudante de Engenharia de Computação na UNIVESP
 * ⚙️ Software Engineer | Foco em Backend & Arquitetura de Sistemas
