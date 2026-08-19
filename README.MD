@@ -1,8 +1,8 @@
-# 👋 Olá, sou o Charles.
-
+# 👋 Welcome,  I'am Charles.
+* 💻 Formado em Análise e desenvolvimento de Sistemas -> FATEC
 * 💻 Estudante de Engenharia de Computação na UNIVESP
-* ⚙️ Software Engineer | Foco em Backend & Arquitetura de Sistemas
-* 📟 São Vicente - São Paulo - Brasil
+* ⚙️ Software Engineer | Foco em Backend & Arquitetura de Sistemas, e Infraestrutura.
+* 📟 São Paulo e região - Brasil
 
 ---
 
