@@ -23,8 +23,7 @@ Aqui no GitHub, compartilho meus projetos acadêmicos, estudos de arquitetura e 
 
 ## 🎯 Objetivo
 
-Busco consolidar minha carreira na área de desenvolvimento backend e sistemas (foco em posições Trainee / Junior), aplicando minha bagagem técnica e acadêmica para resolver problemas complexos de software e, futuramente, expandir minha atuação profissional internacionalmente.
-
+Ser o melhor, nas condições atuais.
 ---
 
 ## 📬 Contato
