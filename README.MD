@@ -1,7 +1,5 @@
 # 👋 Welcome,  I'am Charles.
-* 💻 Formado como técnico em informática. -> ETEC {2017 - 2018}
-* 💻 Formado em Análise e desenvolvimento de Sistemas -> FATEC {2020 - 2024}
-* 💻 Estudante de Engenharia de Computação -> UNIVESP {2025 - 202~}
+
 * ⚙️ Software Engineer | Foco em Backend & Arquitetura de Sistemas, e Infraestrutura.
 * 📟 São Paulo e região - Brasil
 
