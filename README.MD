@@ -23,7 +23,7 @@ Aqui no GitHub, compartilho meus projetos acadêmicos, estudos de arquitetura e 
 
 ## 🎯 Objetivo
 
-Ser o melhor, nas condições atuais.
+Atuar como desenvolvedor/DBA/DevOps
 ---
 
 ## 📬 Contato
