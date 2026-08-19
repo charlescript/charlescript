@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mim
 
-Sou estudante de Engenharia de Computação e atuo como Engenheiro de Software focado no desenvolvimento backend e arquitetura de sistemas. Tenho sólida experiência no desenvolvimento de lógica complexa, padrões arquiteturais (como MVC) e gerenciamento de infraestrutura de rede. Busco sempre aplicar as melhores práticas de engenharia para construir soluções robustas, escaláveis e eficientes.
+Sou estudante de Engenharia de Computação e atuo em projetos particulares, e privados focado no desenvolvimento backend e arquitetura de sistemas. Tenho sólida experiência no desenvolvimento de lógica complexa, padrões arquiteturais (como MVC) e gerenciamento de infraestrutura de rede. Busco sempre aplicar as melhores práticas de engenharia para construir soluções robustas, escaláveis e eficientes.
 
 Aqui no GitHub, compartilho meus projetos acadêmicos, estudos de arquitetura e ferramentas que fazem parte da minha evolução constante na área de tecnologia.
 
