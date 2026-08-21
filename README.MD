@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre
 
 Sou estudante de Engenharia de Computação e atuo em projetos particulares, e privados focado no desenvolvimento backend e arquitetura de sistemas. Experiência no desenvolvimento de lógica, padrões arquiteturais (como MVC) e gerenciamento de infraestrutura de rede. Busco sempre aplicar as melhores práticas de engenharia para construir soluções robustas, escaláveis e eficientes.
 
