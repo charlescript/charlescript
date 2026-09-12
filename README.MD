@@ -15,9 +15,9 @@ Aqui no GitHub, compartilho meus projetos acadêmicos, estudos de arquitetura e 
 
 ## 🎓 Formação
 
-* 🎓 **Bacharelado em Engenharia de Computação** – UNIVESP (Em andamento) -> Bolsa integral do estado
-* 🎓 **Análise e Desenvolvimento de Sistemas** – FATEC (Concluído). 2020 <-> 2024 -> Bolsa integral do estado
-* 🎓 **Técnico em Informática** – ETEC (Concluído). 2018 <-> 2019 -> Bolsa integral do estado
+* 🎓 **Bacharelado em Engenharia de Computação** – UNIVESP (Em andamento) 
+* 🎓 **Análise e Desenvolvimento de Sistemas** – FATEC (Concluído). 2020 <-> 2024 
+* 🎓 **Técnico em Informática** – ETEC (Concluído). 2018 <-> 2019 
 
 ---
 
