@@ -28,7 +28,6 @@ Atuar como desenvolvedor/ FullStack
 
 ## 📬 Contato
 
-* 📧 **E-mail:** [rocha_charles@outlook.com]
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/charles-rocha-6307b31ab]
 
 ---
