@@ -49,9 +49,7 @@ Atuar como desenvolvedor/ FullStack
 ## 📊 Estatísticas
 
 <div align="center">
-  <!-- Cartão de Estatísticas Gerais e Detalhes -->
-  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=charlescript&theme=tokyonight" alt="Charles GitHub Stats" />
-  
+
   <!-- Cartão de Repositórios por Linguagem (Gráfico de Pizza) -->
   <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=charlescript&theme=tokyonight" alt="Repos per Language" />
 </div>
