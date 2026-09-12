@@ -28,7 +28,7 @@ Atuar como desenvolvedor/ FullStack
 
 ## 📬 Contato
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/charles-rocha-6307b31ab]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/charles-rocha-eng/]
 
 ---
 
